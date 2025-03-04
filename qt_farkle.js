@@ -11770,9 +11770,9 @@ var ___cxa_can_catch = createExportWrapper("__cxa_can_catch");
 
 var ___cxa_is_pointer_type = createExportWrapper("__cxa_is_pointer_type");
 
-var ___start_em_js = Module["___start_em_js"] = 8745832;
+var ___start_em_js = Module["___start_em_js"] = 8742968;
 
-var ___stop_em_js = Module["___stop_em_js"] = 8746922;
+var ___stop_em_js = Module["___stop_em_js"] = 8744058;
 
 function invoke_ii(index, a1) {
  var sp = stackSave();
